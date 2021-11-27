@@ -1,0 +1,36 @@
+.review-container{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.reviews{
+    background-color: rgb(221, 213, 213);
+    width: 300px;
+}
+.review-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(50px);
+    z-index: 1
+}
+.review-img img{
+    border-radius: 50%;
+    width: 120px !important;
+}
+.review-body{
+    background-color: #fff
+}
+.review-text{
+    padding-top: 20px;
+    height: 220px;
+}
+.review-desc{
+    height: 220px;
+    text-align: justify;
+    margin: 20px
+}
+.review-desc::-webkit-scrollbar{
+    display: none;
+}

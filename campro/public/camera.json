@@ -1,0 +1,266 @@
+[
+    {
+        "key": "PynIU9eLGT",
+        "camera": "Canon EOS 200D mark II DSLR Camera",
+        "price": 54500,
+        "rating": 3.8,
+        "rating_count": 972,
+        "description": [
+            {
+                "desc": "24.1MP APS-C CMOS Sensor"
+            },
+            {
+                "desc": "Dual Pixel CMOS AF"
+            },
+            {
+                "desc": "3,975 selectable focus positions (Live View)"
+            }
+        ],
+        "img_url": "https://i.ibb.co/Jpx0LbD/Canon-EOS-200-D-mark-II-DSLR-Camera-min.jpg",
+        "tag": "DSLR Camera, Canon",
+        "random_color": "red",
+        "date": "2021/11/12"
+    },
+    {
+        "key": "CdBpW3a7za",
+        "camera": "Canon EOS 250D DSLR Camera",
+        "price": 50000,
+        "rating": 4.7,
+        "rating_count": 889,
+        "description": [
+            {
+                "desc": "The 24.1-megapixel APS-C-format sensor in combination with the DIGIC 8 image processor ensures excellent image quality even in low light"
+            },
+            {
+                "desc": "4K videos look great when you play them on your TV or your smartphone."
+            },
+            {
+                "desc": "LCD screen: 7.7 cm (3.0-inch) vari-angle touchscreen 3: 2 Clear View II TFT"
+            }
+        ],
+        "img_url": "https://i.ibb.co/0GMRjky/Canon-EOS-250-D-DSLR-Camera-min.jpg",
+        "tag": "DSLR Camera, Canon",
+        "random_color": "limegreen",
+        "date": "2021/11/14"
+    },
+    {
+        "key": "JDSiXBqABX",
+        "camera": "Canon EOS 250D DSLR Camera with 18-55mm IS STM Lens – Black",
+        "price": 58500,
+        "rating": 4.2,
+        "rating_count": 537,
+        "description": [
+            {
+                "desc": "24.1 MP, APS-C sensor, 5 fps"
+            },
+            {
+                "desc": "EOS 250D Body, Black"
+            },
+            {
+                "desc": "EF-S 18-55mm f/3.5-5.6 IS STM Lens"
+            }
+        ],
+        "img_url": "https://i.ibb.co/qncLvj8/Canon-EOS-250-D-DSLR-Camera-with-18-55mm-IS-STM-Lens-2-Black-min.jpg",
+        "tag": "DSLR Camera, Canon",
+        "random_color": "darkblue",
+        "date": "2021/11/14"
+    },
+    {
+        "key": "JY72aS0xT7",
+        "camera": "Canon EOS R Mirrorless Digital Camera with 24-105mm f/4L Lens",
+        "price": 58500,
+        "rating": 3.6,
+        "rating_count": 1259,
+        "description": [
+            {
+                "desc": "30.3MP Full-Frame CMOS Sensor"
+            },
+            {
+                "desc": "UHD 4K30 Video; C-Log & 10-Bit HDMI Out"
+            },
+            {
+                "desc": "Dual Pixel CMOS AF, 5655 AF Points"
+            }
+        ],
+        "img_url": "https://i.ibb.co/HtrWGvQ/Canon-EOS-R-Mirrorless-Digital-Camera-with-24-105mm-min.jpg",
+        "tag": "DSLR Camera, Canon",
+        "random_color": "green",
+        "date": "2021/11/15"
+    },
+    {
+        "key": "jcrODeH5LR",
+        "camera": "Nikon D5600 DSLR Camera with 18-140mm",
+        "price": 73000,
+        "rating": 4.8,
+        "rating_count": 327,
+        "description": [
+            {
+                "desc": "24.2MP DX-Format CMOS Sensor"
+            },
+            {
+                "desc": "EXPEED 4 Image Processor"
+            },
+            {
+                "desc": "3.2″ 1.037m-Dot Vari-Angle Touchscreen"
+            }
+        ],
+        "img_url": "https://i.ibb.co/c8LqNf0/nikon-d5600-dslr-camera-with-18-140mm-lens-min.jpg",
+        "tag": "DSLR Camera, Nikon",
+        "random_color": "rgb(44, 100, 255)",
+        "date": "2021/11/15"
+    },
+    {
+        "key": "TEGN1IUUoS",
+        "camera": "Nikon D750 DSLR Camera with 24-120mm",
+        "price": 136000,
+        "rating": 4.7,
+        "rating_count": 382,
+        "description": [
+            {
+                "desc": "27.2MP DK-Format CMOS Sensor"
+            },
+            {
+                "desc": "EXPEED 5.5 Image Processor"
+            },
+            {
+                "desc": "Full HD 1080p Video Recording at 60 fps"
+            }
+        ],
+        "img_url": "https://i.ibb.co/dJ9px2P/Nikon-D750-DSLR-Camera-with-24-120mm-Lens-4-min.jpg",
+        "tag": "DSLR Camera, Nikon",
+        "random_color": "red",
+        "date": "2021/11/15"
+    },
+    {
+        "key": "B5cvNdTs4d",
+        "camera": "Nikon D850 DSLR Camera with 24-120mm",
+        "price": 245000,
+        "rating": 4.2,
+        "rating_count": 753,
+        "description": [
+            {
+                "desc": "45.7MP FX-Format BSI CMOS Sensor"
+            },
+            {
+                "desc": "3.2″ 2.36m-Dot Tilting Touchscreen LCD"
+            },
+            {
+                "desc": "4K UHD Video Recording at 30 fps"
+            }
+        ],
+        "img_url": "https://i.ibb.co/hsLDfD8/Nikon-D850-DSLR-Camera-with-24-120mm-Lens-min.jpg",
+        "tag": "DSLR Camera, Nikon",
+        "random_color": "grey",
+        "date": "2021/11/17"
+    },
+    {
+        "key": "JukGRl8JAI",
+        "camera": "Sony Alpha a6400 Mirrorless Digital",
+        "price": 82000,
+        "rating": 4.5,
+        "rating_count": 468,
+        "description": [
+            {
+                "desc": "24.2MP APS-C Exmor CMOS Sensor"
+            },
+            {
+                "desc": "BIONZ X Image Processor"
+            },
+            {
+                "desc": "XGA Tru-Finder 2.36m-Dot OLED EVF"
+            }
+        ],
+        "img_url": "https://i.ibb.co/Vpn5RkG/Sony-Alpha-a6400-Mirrorless-Digital-Camera-Body-Only-min.jpg",
+        "tag": "DSLR Camera, Sony",
+        "random_color": "rgb(223, 132, 13)",
+        "date": "2021/11/18"
+    },
+    {
+        "key": "ZW8ifmLGaY",
+        "camera": "Sony Alpha a6600 Mirrorless Digital",
+        "price": 115000,
+        "rating": 3.7,
+        "rating_count": 1458,
+        "description": [
+            {
+                "desc": "25.2MP APS-C Exmor CMOS Sensor"
+            },
+            {
+                "desc": "UHD 4K30p Video with HLG & S-Log3 Gammas"
+            },
+            {
+                "desc": "XGA Tru-Finder 3.2m-Dot OLED EVF"
+            }
+        ],
+        "img_url": "https://i.ibb.co/cFjf0vM/Sony-Alpha-a6600-Mirrorless-Digital-Camera-min.jpg",
+        "tag": "DSLR Camera, Sony",
+        "random_color": "rgb(173, 3, 173)",
+        "date": "2021/11/19"
+    },
+    {
+        "key": "UTHYTP5IMv",
+        "camera": "Sony Alpha a7 II Mirrorless Digital Camera",
+        "price": 83000,
+        "rating": 4.2,
+        "rating_count": 936,
+        "description": [
+            {
+                "desc": "27.3MP Full-Frame Exmor CMOS Senso"
+            },
+            {
+                "desc": "5-Axis SteadyShot INSIDE Stabilization"
+            },
+            {
+                "desc": "Enhanced Fast Hybrid AF and 5 fps Burst"
+            }
+        ],
+        "img_url": "https://i.ibb.co/2cG5dvL/Sony-Alpha-a7-II-Mirrorless-Digital-Camera-min.jpg",
+        "tag": "DSLR Camera, Sony",
+        "random_color": "limegreen",
+        "date": "2021/11/19"
+    },
+    {
+        "key": "2JW5vIdYPZ",
+        "camera": "Sony Alpha a7C Mirrorless Digital Camera",
+        "price": 169000,
+        "rating": 3.8,
+        "rating_count": 873,
+        "description": [
+            {
+                "desc": "30.2MP Full-Frame Exmor R BSI Sensor"
+            },
+            {
+                "desc": "693-Point Hybrid AF System"
+            },
+            {
+                "desc": "3.0″ 921.6k-Dot Vari-Angle Touchscreen"
+            }
+        ],
+        "img_url": "https://i.ibb.co/JjB8yJH/Sony-Alpha-a7-C-Mirrorless-Digital-Camera-with-28-60mm-Lens-min.jpg",
+        "tag": "DSLR Camera, Sony",
+        "random_color": "darkblue",
+        "date": "2021/11/20"
+    },
+    {
+        "key": "8JVSu0jW9x",
+        "camera": "Sony Alpha a7R IV Mirrorless Digital Camera",
+        "price": 248000,
+        "rating": 4.2,
+        "rating_count": 751,
+        "description": [
+            {
+                "desc": "61MP Full-Frame Exmor R BSI CMOS Sensor"
+            },
+            {
+                "desc": "567-Point Phase-Detection AF System"
+            },
+            {
+                "desc": "UHD 4K30p Video with HLG & S-Log3 Gammas"
+            }
+        ],
+        "img_url": "https://i.ibb.co/8c0wPr4/Sony-Alpha-a7-R-IV-Mirrorless-Digital-Camera-min.jpg",
+        "tag": "DSLR Camera, Sony",
+        "random_color": "red",
+        "date": "2021/11/21"
+    }
+]

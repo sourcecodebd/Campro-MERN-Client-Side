@@ -1,0 +1,128 @@
+.navbar-main{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    color: white;
+    box-shadow: rgba(0,0,0,0.1)2px 4px 8px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    background: linear-gradient(90deg, #FE6B8B 30%, #FF8E53 90%);
+}
+.navbar-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+.nav li{
+    padding: 0 15px;
+    font-weight: 600;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 60px;
+}
+.mobile-nav, #menubar{
+    display: none;
+}
+@media only screen  and (max-width: 660px) {
+    .navbar-main{
+        padding: 20px;
+    }
+    .navbar-logo{
+        padding-left: 15px;
+    }
+    .navbar-logo img{
+        padding: 0;
+        display: flex;
+        justify-content: flex-start
+    }
+    .navbar-logo img{
+        width: 50px;
+    }
+    .navbar-main img{
+        transform: scale(3.5);
+        margin-left: 40px;
+    }
+    .nav{
+        display: none;
+    }
+    nav{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 0 10px
+    }
+    #menubar{
+        display: block;
+        color: black;
+        transition: 0.3s;
+    }
+    .show{
+        display: block;
+    }
+    .spin{
+        transform: rotate(720deg);
+    }
+    .mobile-nav{
+        padding: 10px;
+    }
+    .mobile-nav li{
+        list-style: none;
+        padding: 10px 0;
+        font-weight: 600;
+    }
+}
+@media only screen and (min-width: 661px) and (max-width: 992px){
+    .navbar-main{
+        padding: 20px;
+    }
+    .navbar-logo{
+        padding-left: 15px;
+    }
+    .navbar-logo img{
+        padding-left: 0;
+        display: flex;
+        justify-content: flex-start
+    }
+    .navbar-logo img{
+        width: 50px;
+    }
+    .navbar-main img{
+        transform: scale(3.5);
+        margin-left: 40px;
+    }
+    .nav{
+        display: none;
+    }
+    nav{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        padding: 0 10px
+    }
+    #menubar{
+        display: block;
+        color: black;
+        transition: 0.3s;
+    }
+    .show{
+        display: block;
+    }
+    .spin{
+        transform: rotate(720deg);
+    }
+    .mobile-nav{
+        padding: 10px;
+    }
+    .mobile-nav li{
+        list-style: none;
+        padding: 10px 0;
+        font-weight: 600;
+    }
+}

@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+  font-family: 'Signika', sans-serif;
+}
+body { margin: 0; padding: 0; }
+a{
+  text-decoration: none;
+  color: inherit;
+}
+a:hover{
+  color: inherit
+}
+h1{
+  font-weight: 700;
+}
+.card-custom{
+  background-color: white;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px
+}
+.card-custom-title{
+  font-weight: 700;
+}
+.input-auth{
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 1px solid #C5C5C5;
+  outline: none;
+}
+input{
+  outline: none;
+}
+.input-auth::placeholder{
+  font-size: 0.8em
+}
+.rounded-custom{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
+.lines{
+  background-image: linear-gradient( #d129a3, #a439b0, #6c43b5);
+  height: 4px;
+  width: 70px;
+  margin: auto;
+  border-radius: 20px;
+}
+.lines-charm{
+  background-color: white;
+  height: 4px;
+  width: 70px;
+  margin: auto;
+  border-radius: 20px;
+}
+.bg-blur{
+  background: rgba(255,255,255,0.5);
+  backdrop-filter: blur(5px);
+}
+.hoverStyle:hover{
+  background: rgba(185, 181, 181, 0.5) !important;
+}
+.border-custom{
+  border-bottom: 5px solid #ccc;
+}
+.overflow-custom{
+  overflow: hidden;
+  overflow-y: scroll;
+  height: 200px
+}
+.overflow-custom::-webkit-scrollbar{
+  display: none;
+}
+.red{
+  color: red;
+}
+.blue{
+  color: #a439b0;
+}
+.bg-blue{
+  background-image: linear-gradient(to right top, #f61d8e, #d129a3, #a439b0, #6c43b5, #1048b0);
+}
+.bg-orange{
+  background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+}
+.justify{
+  text-align: justify;
+}
+.font-small{
+  font-size: 10px
+}
+.font-med{
+  font-size: 12px
+}
+.font-large{
+  font-size: 22px
+}
+.drawer-custom{
+  height: 200vh
+}
+
+/*
+ *  scroll-sex
+ */
+
+ ::-webkit-scrollbar 
+  {
+    width: 20px;
+  }
+
+ ::-webkit-scrollbar-track
+ {
+   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+   background-color: #F5F5F5;
+   border-radius: 10px;
+ }
+ 
+ ::-webkit-scrollbar
+ {
+   width: 10px;
+   background-color: #F5F5F5;
+ }
+ 
+ ::-webkit-scrollbar-thumb
+ {
+   border-radius: 10px;
+   background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+ }
+
+@media only screen and (max-width: 768px){
+  .card-custom{
+    width: 100%;
+  }
+  .font-large{
+    font-size: 13px
+  }
+}
