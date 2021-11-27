@@ -17,4 +17,3 @@ Hi There! This is a simple Camera Selling and Delivery related app that I made u
 ## • Customer have to give addtional details for shipping process.
 ## • Dynamic review rating system has been implemented.
 ## • All values has been fetched via Context API, fetched from  Custom Hooks and stored in Mongodb database.
-let's get started with React JS and Jhanker Mahbub bhai! ;):D
